@@ -23,4 +23,4 @@ form.addEventListener('submit', event => {
             }
         })
     }
-});
+})
